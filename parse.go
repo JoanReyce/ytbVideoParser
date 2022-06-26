@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/suconghou/youtubevideoparser/request"
+	"github.com/JoanReyce/ytbVideoParser/request/"
 	"github.com/tidwall/gjson"
 )
 
